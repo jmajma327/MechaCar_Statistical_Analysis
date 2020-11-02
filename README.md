@@ -28,5 +28,4 @@ The t-Test was performed on all manufacturing lots. This showed that all are sta
 # Study Design: MechaCar vs Competition
 I would create a statistical study to compare MechaCar vehicles miles per gallon in comparions of vehicles from other manufacturers miles per gallon to see which car is more efficient.
 The null hypothesis for each would be that the means between the vehicles miles per gallon are the same, and the alternative hypothesis would be that they are not equal.
-In order to compare the data, we would have to compile data sets of vehicles from 2 or 3 models competitive to MechaCar. Data would need to include Miles Per Gallon.
 I would use a Two-Sample t-Test to determine the hypothesis decision because I am testing the competitors vehicles in this study.
